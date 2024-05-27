@@ -1,0 +1,12 @@
+#wordbar,#wordbar2, #wordbar3, #wordbar4, #wordbar5, #wordbar6, #wordbar7 {
+    padding: 10px;
+    width: 50%;
+    margin-left: 17vw;
+}
+#button, #button2, #button3, #button4, #button5, #button6 {
+    width: 20%;
+    height: 2vw;
+    padding: 5px;
+    margin: 20px 5px;
+    margin-left: 233px;
+}
